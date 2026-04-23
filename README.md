@@ -83,8 +83,8 @@
 ### Latest Blog Posts 
 
 
+- Apr 23, 2026 · [UI/UX 디자이너라면 꼭 북마크해야 할 디자인 리소스 사이트 정리](https://j2su0218.tistory.com/1749)
 - Dec 31, 2025 · [Windows 보안이 안 열리고 &lsquo;권장 작업&rsquo;이 눌리지 않을 때 해결 방법 (직접 해결한 사례)](https://j2su0218.tistory.com/1747)
 - Dec 01, 2025 · [구글 클라우드의 리소스 및 액세스 개념 정리](https://j2su0218.tistory.com/1744)
 - Nov 30, 2025 · [브랜드를 1인 운영하거나 처음 시작한 사람들에게 필요한 9가지 프로그램](https://j2su0218.tistory.com/1745)
 - Nov 29, 2025 · [Google Cloud의 프로젝트 ID &middot; 프로젝트 이름 &middot; 프로젝트 번호 정리](https://j2su0218.tistory.com/1743)
-- Nov 28, 2025 · [인텔 리얼센스(intel real sense)와 유니티 sdk 자료모음](https://j2su0218.tistory.com/1746)
