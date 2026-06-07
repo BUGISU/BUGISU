@@ -7,7 +7,7 @@
   <a href="https://j2su0218.tistory.com">
     <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Blogger&logoColor=white" />
   </a>
-  <a href="mailto:admin@j2su0218@gmail.com">
+  <a href="mailto:j2su0218@gmail.com">
     <img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
