@@ -76,6 +76,7 @@ const fixedHeader = `
 | **[보자마자 피트니스 - 시티투어 부산](https://github.com/lunelDev/BMF-CityTourBusan)** | **피트니스 확장:** **FIT-TAG 센서 연동**, WebView 상점 및 다국어 지원 환경 구축. | Unity, C#, **FIT-TAG**, WebView, Localization |
 | **[복둥이의 시간 여행](https://github.com/lunelDev/Bokcheon-dong)** | **AR 박물관:** Vuforia 기반 AR 마커 인식, 애니메이션/나레이션 동기화 및 3D 모델 최적화. | Unity, C#, **Vuforia**, DOTweenPro |
 | **[보자마자 브레인](https://github.com/lunelDev/BMF-BojamajaBrain)** | **모션 인식/인지 훈련:** **Leap Motion/Kinect** 기반 인지훈련 콘텐츠 UI 재구성 및 UX 개선. | Unity, C#, **Leap Motion**, **Kinect** |
+| **[보자마자 PLAY 2](https://github.com/lunelDev/BojamajaPlay2_mobile)** | **캐주얼 미니게임 모음(10종+):** 터치·**Leap Motion 손동작** 두 입력 버전 구현, 클래식/랭킹 모드·**Firebase 글로벌 랭킹**·AdMob 연동. | Unity, C#, **Leap Motion**, Firebase, AdMob |
 
 ### Full-stack Web Development 
 
