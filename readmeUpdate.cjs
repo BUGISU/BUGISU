@@ -71,6 +71,8 @@ const fixedHeader = `
 | Project Name | Key Achievement / Role| Stacks |
 | :--- | :--- | :--- |
 | **[PCR 실험 탐구](https://github.com/lunelDev/MC_LHT2_03_PCR), [세포의 세계](https://github.com/lunelDev/NMB_09_0201)** | **XR 과학 학습:** Leia 3D 디스플레이 최적화, 정교한 과학 실험 로직 구현 및 5단계 학습 흐름 개발. | Unity, C#, **Leia 3D SDK**, DOTween |
+| **[보자마자 피트니스 - 런 투 더 문](https://github.com/lunelDev/BMF-Run.to.the.Moon)** | **스토리형 홈 피트니스:** **FIT-TAG 센서** 연동 러닝 게임. 맵 20종·산소 시스템·명예의 전당 랭킹·내러티브 개발(개발 100%), 한/영 현지화. | Unity, C#, **FIT-TAG**, Cinemachine, Addressables |
+| **[보자마자 피트니스 - 어메이징 코어](https://github.com/lunelDev/BMF-AmazingCore)** | **코어 운동 게임화:** **FIT-TAG 센서** 기반 트레이닝(7×3)·미니게임 3종·3D 자세 뷰어 개발(개발 100%), Google Play 출시. | Unity, C#, **FIT-TAG**, DOTween, Localization |
 | **[보자마자 피트니스 - 시티투어 부산](https://github.com/lunelDev/BMF-CityTourBusan)** | **피트니스 확장:** **FIT-TAG 센서 연동**, WebView 상점 및 다국어 지원 환경 구축. | Unity, C#, **FIT-TAG**, WebView, Localization |
 | **[복둥이의 시간 여행](https://github.com/lunelDev/Bokcheon-dong)** | **AR 박물관:** Vuforia 기반 AR 마커 인식, 애니메이션/나레이션 동기화 및 3D 모델 최적화. | Unity, C#, **Vuforia**, DOTweenPro |
 | **[보자마자 브레인](https://github.com/lunelDev/BMF-BojamajaBrain)** | **모션 인식/인지 훈련:** **Leap Motion/Kinect** 기반 인지훈련 콘텐츠 UI 재구성 및 UX 개선. | Unity, C#, **Leap Motion**, **Kinect** |
