@@ -57,17 +57,6 @@
 | **[GPT-UnityProxyDemo](https://github.com/lunelDev/GPT-UnityProxyDemo)** | **AI 연동:** **OpenAI API**를 Render Proxy 서버와 연동한 대화형 AI 시스템 구현. | Unity, C#, **OpenAI API**, Render, JSON |
 | **[ImageGalleryAPI](https://github.com/lunelDev/RestGallery)** | **RESTful API 연동:** Unity 클라이언트와 FastAPI 서버 간 이미지 CRUD 풀사이클 시스템 구축. | Unity, C#, **Python(FastAPI)**, UnityWebRequest |
 
-### MC Media — XR 교과 학습 콘텐츠 (Unity + Leia 3D)
-
-| Project Name | Key Achievement / Role | Stacks |
-| :--- | :--- | :--- |
-| **[물의 상태 변화 관찰하기](https://github.com/lunelDev/MC_NET_10_0102)** | **XR 과학 학습:** 고체-액체-기체 상태변화 단계별 관찰 + 물의 순환·10문항 퀴즈, 커스텀 얼음/물 셰이더. | Unity, C#, **Leia 3D**, URP, DOTween |
-| **[자연의 신비 모험](https://github.com/lunelDev/MC_NB_Nature)** | **3D 자연 학습:** 동물 소리 청각 식별 + 식물 성장순서 조합, 단일 씬 Group 토글·커스텀 URP 블러(BlurFeature). | Unity, C#, **Leia 3D**, URP, DOTween |
-| **[잃어버린 영어주문을 찾아서](https://github.com/lunelDev/MC_NB_English)** | **영어 학습:** 부유 단어 터치 식별 + 단어조각 드래그 빈칸채우기, 한국어 조사 자동보정 유틸. | Unity, C#, **Leia 3D**, URP |
-| **[지금 몇 시일까요?](https://github.com/lunelDev/MC_NB_Clock)** | **시간 학습:** 드래그로 시계 바늘 맞추기 + 일과 시각 매칭(시리즈 유일 드래그 입력). | Unity, C#, URP, DOTween |
-| **[음악 마법 모험](https://github.com/lunelDev/MC_NB_Music)** | **음악 교육:** 악기 소리 식별 + 사이먼식 청각 시퀀스 기억(3라운드·별 획득), 오디오 매니저 설계. | Unity, C#, URP, DOTween |
-| **[우리들의 색깔 학교](https://github.com/lunelDev/MC_NB_Art)** | **미술/색 학습:** 색깔 물건 찾기 + 물감 드래그&드롭 색 혼합(이름 조합표 → RGB 거리 판정). | Unity, C#, URP, DOTween |
-
 ### Core XR/AR & Fitness Development 
 
 | Project Name | Key Achievement / Role| Stacks |
