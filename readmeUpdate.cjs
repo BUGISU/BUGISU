@@ -24,8 +24,8 @@ const fixedHeader = `
 ## Professional Summary 
 
 - **Unity & XR 전문가:** 3년 경력의 Unity(C#) 기반 **XR/AR 학습 및 피트니스 콘텐츠** 개발자. 프로젝트 초기 기획부터 상용화까지 전 과정 경험 보유.
-- **서버 연동 및 디지털 트윈:** **TCP/IP, RESTful API 통신 구조**를 설계하고, IoT 센서 데이터 및 AI API(OpenAI)를 Unity 환경에 통합 구현하여 **디지털 트윈** 시스템 PoC 성공.
-- **하드웨어 인터랙션:** Leap Motion, Kinect, FIT-TAG, Leia 3D SDK 등 **외부 센서 및 장비 연동** 기반의 인터랙티브 콘텐츠 개발 전문.
+- **서버 연동 및 디지털 트윈:** **TCP/IP, RESTful API 통신 구조**를 설계하고, IoT 센서 데이터 및 AI API(OpenAI)를 Unity 환경에 통합 구현하여 **디지털 트윈** 개념 PoC 구현.
+- **하드웨어 인터랙션:** Leap Motion, Kinect, FIT-TAG, Leia 3D SDK 등 **다양한 센서·장비 입력을 게임 로직·애니메이션·콘텐츠로 구현**한 인터랙티브 콘텐츠 개발.
 - **기술 확장성:** Java/Spring Boot 풀스택 개발 경험을 통해 클라이언트-서버 시스템 전반의 이해도 확보 및 문제 해결 능력 보유.
 
 ## Tech Stack & Tools
@@ -41,7 +41,7 @@ const fixedHeader = `
 ### Server & Cloud Integration
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring&nbsp;Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 | **Server/API** | Spring Security, JWT, RESTful API, FastAPI (Python), TCP/IP, Fetch/Axios |
 | **Cloud/Tools** | OpenAI API, Render, Firebase, Postman |
@@ -71,18 +71,18 @@ const fixedHeader = `
 | Project Name | Key Achievement / Role| Stacks |
 | :--- | :--- | :--- |
 | **[PCR 실험 탐구](https://github.com/lunelDev/MC_LHT2_03_PCR), [세포의 세계](https://github.com/lunelDev/NMB_09_0201)** | **XR 과학 학습:** Leia 3D 디스플레이 최적화, 정교한 과학 실험 로직 구현 및 5단계 학습 흐름 개발. | Unity, C#, **Leia 3D SDK**, DOTween |
-| **[보자마자 피트니스 - 런 투 더 문](https://github.com/lunelDev/BMF-Run.to.the.Moon)** | **스토리형 홈 피트니스:** **FIT-TAG 센서** 연동 러닝 게임. 맵 20종·산소 시스템·명예의 전당 랭킹·내러티브 개발(개발 100%), 한/영 현지화. | Unity, C#, **FIT-TAG**, Cinemachine, Addressables |
-| **[보자마자 피트니스 - 어메이징 코어](https://github.com/lunelDev/BMF-AmazingCore)** | **코어 운동 게임화:** **FIT-TAG 센서** 기반 트레이닝(7×3)·미니게임 3종·3D 자세 뷰어 개발(개발 100%), Google Play 출시. | Unity, C#, **FIT-TAG**, DOTween, Localization |
-| **[보자마자 피트니스 - 시티투어 부산](https://github.com/lunelDev/BMF-CityTourBusan)** | **피트니스 확장:** **FIT-TAG 센서 연동**, WebView 상점 및 다국어 지원 환경 구축. | Unity, C#, **FIT-TAG**, WebView, Localization |
+| **[보자마자 피트니스 - 런 투 더 문](https://github.com/lunelDev/BMF-Run.to.the.Moon)** | **러닝 게임 개발(거의 단독):** **센서 입력→속도/캐릭터 애니메이션 로직**, 1000km 단계 진행·**랜덤 맵(Cinemachine)**·상점·내러티브 (한/영). | Unity, C#, **FIT-TAG**, Cinemachine, Addressables |
+| **[보자마자 피트니스 - 어메이징 코어](https://github.com/lunelDev/BMF-AmazingCore)** | **코어 운동 게임화:** BLE 센서 **입력 기반 미니게임의 카운트/승패 로직 + 캐릭터 애니메이션 구현**, 코어 트레이닝 모드·다국어, Google Play 출시. | Unity, C#, **FIT-TAG**, DOTween, Localization |
+| **[보자마자 피트니스 - 시티투어 부산](https://github.com/lunelDev/BMF-CityTourBusan)** | **피트니스 확장(부산 버전 재구성):** 기존 사이클링투어를 **부산 테마로 맵 배치·DollyTrack 카메라 경로·디자인 재구성**, **인앱 WebView 상점**·다국어 구축. | Unity, C#, **FIT-TAG**, WebView, Localization |
 | **[복둥이의 시간 여행](https://github.com/lunelDev/Bokcheon-dong)** | **AR 박물관:** Vuforia 기반 AR 마커 인식, 애니메이션/나레이션 동기화 및 3D 모델 최적화. | Unity, C#, **Vuforia**, DOTweenPro |
-| **[보자마자 브레인](https://github.com/lunelDev/BMF-BojamajaBrain)** | **모션 인식/인지 훈련:** **Leap Motion/Kinect** 기반 인지훈련 콘텐츠 UI 재구성 및 UX 개선. | Unity, C#, **Leap Motion**, **Kinect** |
-| **[보자마자 PLAY 2](https://github.com/lunelDev/BojamajaPlay2_mobile)** | **캐주얼 미니게임 모음(10종+):** 터치·**Leap Motion 손동작** 두 입력 버전 구현, 클래식/랭킹 모드·**Firebase 글로벌 랭킹**·AdMob 연동. | Unity, C#, **Leap Motion**, Firebase, AdMob |
+| **[보자마자 브레인](https://github.com/lunelDev/BMF-BojamajaBrain)** | **모션 인식/인지 훈련:** **터치 미니게임 15종 + Leap Motion 손동작 게임 5종 직접 제작**, 데이터 기반 랜덤 출제 로직, Android 출시 (Kinect 연동). | Unity, C#, **Leap Motion**, **Kinect** |
+| **[보자마자 PLAY 2](https://github.com/lunelDev/BojamajaPlay2_mobile)** | **미니게임 모음 10종(팀):** **게임 흐름·종료 판정·로비·UI 시스템 구축**, **LeapMotion 버전 변환·신규 게임 제작**, AdMob·서버 랭킹. | Unity, C#, **Leap Motion**, AdMob |
 
 ### Full-stack Web Development 
 
 | Project Name| Key Achievement / Role | Stacks |
 | :--- | :--- | :--- |
-| **[Team_ShakePot](https://github.com/lunelDev/Team_ShakePot)** | **헬스케어 플랫폼:** Spring Boot API 개발, **JWT 인증/권한 제어** 및 React 기반 UI/UX 설계. | **Spring Boot**, Java, React, MySQL, **JWT** |
+| **[Team_ShakePot](https://github.com/lunelDev/Team_ShakePot)** | **헬스케어 플랫폼(3인 팀):** Spring Boot API·**JWT 인증** 및 React UI 개발 참여. | **Spring Boot**, Java, React, MariaDB, **JWT** |
 | **[SnapTide](https://github.com/lunelDev/SnapTide)** | **Web Service:** Spring Boot 기반 백엔드 및 API 개발, **Spring Security**를 활용한 인증 기능 구현. | **Spring Boot**, Java, MariaDB, React |
 
 ## GitHub Stats & Learnings
