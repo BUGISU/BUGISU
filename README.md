@@ -35,7 +35,7 @@ Unity·C# 기반 XR·AR·피트니스 콘텐츠를 상용화해 온 개발자입
 | | |
 | :--- | :--- |
 | **BrainFriends** — 언어재활 SaMD<br /><sub>Next.js/React 클라이언트 · 재활 게임 · MediaPipe 손 추적 · 임상 지표 저장</sub> | **[Run To The Moon](https://github.com/lunelDev/BMF-Run.to.the.Moon)** — FIT-TAG 러닝<br /><sub>센서 각속도 → 4단계 속도/애니메이션 · 1000km · AAB 배포</sub> |
-| **[Bojamaja Brain](https://github.com/lunelDev/BMF-BojamajaBrain)** — 시니어 인지훈련<br /><sub>터치 미니게임 15종 + Leap Motion 5종 · CSV 랜덤 출제 · Android 출시</sub> | **[Urban Twin](https://github.com/lunelDev/UrbanTwin)** — 디지털 트윈 PoC<br /><sub>.NET TCP 서버 ↔ Unity · 도시 데이터 LineRenderer 시각화</sub> |
+| **[Bojamaja Brain](https://github.com/lunelDev/BMF-BojamajaBrain)** — 시니어 인지훈련<br /><sub>터치 미니게임 15종 + Leap Motion 5종 · CSV 랜덤 출제 · Android 출시</sub> | **[SnapTide](https://github.com/lunelDev/SnapTide)** — 풀스택 SNS<br /><sub>React 프론트 · Spring Boot/Security 인증 · MariaDB 데이터 흐름</sub> |
 
 <p align="center">
   <strong><a href="https://jisuportfolio.vercel.app">→ 전체 22개 프로젝트 살펴보기 · Portfolio ↗</a></strong>
